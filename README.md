@@ -18,7 +18,7 @@ Use sample_values as the values for the bar chart.
 Use otu_ids as the labels for the bar chart.
 Use otu_labels as the hovertext for the chart.
 
-<img src="Images/barchart.png" width="800" />
+<img src="Images/barchart.png" width="200" />
 
 ### Step 2: Plotly Bubble Chart
 
@@ -37,7 +37,7 @@ Display the sample metadata, i.e., an individual's demographic information.
 Display each key-value pair from the metadata JSON object somewhere on the page.
 Update all of the plots any time that a new sample is selected.
 
-<img src="Images/selecting.png" width="800" />
+<img src="Images/selecting.png" width="200" />
 
 ### Step 4: Advanced Assignment (Optional)
 
@@ -46,7 +46,7 @@ I adapted the Gauge Chart from https://plot.ly/javascript/gauge-charts/ to plot 
 Then, I modified the example gauge code to account for values ranging from 0 through 9.
 Updated the chart whenever a new sample is selected.
 
-<img src="Images/gauge.png" width="800" />
+<img src="Images/gauge.png" width="500" />
 
 ## Deployment
 
